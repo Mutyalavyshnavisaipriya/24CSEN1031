@@ -15,7 +15,7 @@ printf("\n The Reverse of %d is %d",t,rev);
 }
 
 
-//OUTPUTreve
+//OUTPUT
 Enter an integer value:234
 
  The Reverse of 234 is 432
